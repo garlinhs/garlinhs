@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/garlinhs/garlinhs/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/garlinhs/garlinhs/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://github.com/garlinhs/garlinhs/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=garlinhs)
